@@ -1,3 +1,4 @@
+/* create by ranrantu 2016/8/1 */
 var renderer,stage;
 
 GAME.init = function (){
